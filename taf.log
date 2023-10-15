@@ -1,0 +1,292 @@
+2023-10-15 13:42:16,797 : INFO : test_e2e_select : shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="23a25ba81c18553532c1d1c792676044", element="1FF64CB33F4D4730E228F299F4E888A5_element_64")>, <selenium.webdriver.remote.webelement.WebElement (session="23a25ba81c18553532c1d1c792676044", element="1FF64CB33F4D4730E228F299F4E888A5_element_65")>, <selenium.webdriver.remote.webelement.WebElement (session="23a25ba81c18553532c1d1c792676044", element="1FF64CB33F4D4730E228F299F4E888A5_element_66")>, <selenium.webdriver.remote.webelement.WebElement (session="23a25ba81c18553532c1d1c792676044", element="1FF64CB33F4D4730E228F299F4E888A5_element_67")>]`.
+2023-10-15 13:42:16,870 : INFO : test_e2e_select : element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.
+2023-10-15 13:42:16,892 : INFO : test_e2e_select : element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.
+2023-10-15 13:42:16,909 : INFO : test_e2e_select : element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.
+2023-10-15 13:42:16,929 : INFO : test_e2e_select : element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.
+2023-10-15 13:42:16,930 : INFO : test_e2e_select : actual_element_text:`Blackberry`, expected_product_name:`Blackberry`.
+2023-10-15 13:45:58,570 : INFO : test_e2e_sort_table : started test: `TestSecond`
+2023-10-15 13:46:00,558 : INFO : test_e2e_sort_table : unsorted list:`['Wheat', 'Tomato', 'Strawberry', 'Rice', 'Potato', 'Pineapple', 'Orange', 'Mango', 'Guava', 'Dragon fruit', 'Chocolate', 'Cherry', 'Cheese', 'Carrot', 'Brinjal', 'Beans', 'Banana', 'Apple', 'Almond']`.
+2023-10-15 13:46:00,681 : INFO : test_e2e_sort_table : actual sorted list:                   `['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`  .
+2023-10-15 13:46:00,682 : INFO : test_e2e_sort_table : initially unsorted list aster sorting:`['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`.
+2023-10-15 13:50:28,388 : INFO : test_e2e_sort_table : ---------------------started test!----------------------
+2023-10-15 13:50:30,301 : INFO : test_e2e_sort_table : unsorted list:`['Wheat', 'Tomato', 'Strawberry', 'Rice', 'Potato', 'Pineapple', 'Orange', 'Mango', 'Guava', 'Dragon fruit', 'Chocolate', 'Cherry', 'Cheese', 'Carrot', 'Brinjal', 'Beans', 'Banana', 'Apple', 'Almond']`.
+2023-10-15 13:50:30,432 : INFO : test_e2e_sort_table : actual sorted list:                   `['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`  .
+2023-10-15 13:50:30,432 : INFO : test_e2e_sort_table : initially unsorted list aster sorting:`['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`.
+2023-10-15 13:50:30,432 : INFO : test_e2e_sort_table : ---------------------completed test!----------------------
+2023-10-15 14:16:01,845 : INFO : test_e2e_select : ---------------------started test!----------------------
+2023-10-15 14:16:06,873 : INFO : test_e2e_select : shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="f934ab7e062abb72472fb8e50a1f3287", element="C01262CF298637D90BA76A4BBC2DBFD5_element_67")>, <selenium.webdriver.remote.webelement.WebElement (session="f934ab7e062abb72472fb8e50a1f3287", element="C01262CF298637D90BA76A4BBC2DBFD5_element_68")>, <selenium.webdriver.remote.webelement.WebElement (session="f934ab7e062abb72472fb8e50a1f3287", element="C01262CF298637D90BA76A4BBC2DBFD5_element_69")>, <selenium.webdriver.remote.webelement.WebElement (session="f934ab7e062abb72472fb8e50a1f3287", element="C01262CF298637D90BA76A4BBC2DBFD5_element_70")>]`.
+2023-10-15 14:16:06,904 : INFO : test_e2e_select : element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.
+2023-10-15 14:16:06,926 : INFO : test_e2e_select : element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.
+2023-10-15 14:16:06,945 : INFO : test_e2e_select : element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.
+2023-10-15 14:16:06,964 : INFO : test_e2e_select : element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.
+2023-10-15 14:16:06,964 : INFO : test_e2e_select : actual_element_text:`Blackberry`, expected_product_name:`Blackberry`.
+2023-10-15 14:16:07,107 : INFO : test_e2e_select : ---------------------completed test!----------------------
+2023-10-15 14:16:08,449 : INFO : test_e2e_sort_table : ---------------------started test!----------------------
+2023-10-15 14:16:10,859 : INFO : test_e2e_sort_table : unsorted list:`['Wheat', 'Tomato', 'Strawberry', 'Rice', 'Potato', 'Pineapple', 'Orange', 'Mango', 'Guava', 'Dragon fruit', 'Chocolate', 'Cherry', 'Cheese', 'Carrot', 'Brinjal', 'Beans', 'Banana', 'Apple', 'Almond']`.
+2023-10-15 14:16:10,983 : INFO : test_e2e_sort_table : actual sorted list:                   `['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`  .
+2023-10-15 14:16:10,983 : INFO : test_e2e_sort_table : initially unsorted list aster sorting:`['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`.
+2023-10-15 14:16:10,983 : INFO : test_e2e_sort_table : ---------------------completed test!----------------------
+2023-10-15 14:16:12,341 : INFO : test_e2e_third : ---------------------started test!----------------------
+2023-10-15 14:16:19,270 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:22,223 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:22,227 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:22,227 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:23,124 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:23,124 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:24,481 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:24,481 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:24,481 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:27,052 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:27,052 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:27,052 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:27,058 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:27,058 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:27,058 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:27,058 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:27,998 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:27,998 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:27,998 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:27,998 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:29,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:29,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:29,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:29,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:29,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:32,305 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:32,305 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:32,305 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:32,305 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:32,305 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:32,309 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:32,309 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:32,309 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:32,309 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:32,309 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:32,309 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:16:33,270 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:33,270 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:33,270 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:33,270 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:33,270 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:16:33,270 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:17:43,972 : INFO : test_e2e_select : ---------------------started test!----------------------
+2023-10-15 14:17:46,800 : INFO : test_e2e_select : shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="3a9ae65e5335be3aa186f1cefe864e95", element="6BBC147FC140B3FEF48B11939087C30D_element_71")>, <selenium.webdriver.remote.webelement.WebElement (session="3a9ae65e5335be3aa186f1cefe864e95", element="6BBC147FC140B3FEF48B11939087C30D_element_72")>, <selenium.webdriver.remote.webelement.WebElement (session="3a9ae65e5335be3aa186f1cefe864e95", element="6BBC147FC140B3FEF48B11939087C30D_element_73")>, <selenium.webdriver.remote.webelement.WebElement (session="3a9ae65e5335be3aa186f1cefe864e95", element="6BBC147FC140B3FEF48B11939087C30D_element_74")>]`.
+2023-10-15 14:17:46,830 : INFO : test_e2e_select : element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.
+2023-10-15 14:17:46,852 : INFO : test_e2e_select : element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.
+2023-10-15 14:17:46,872 : INFO : test_e2e_select : element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.
+2023-10-15 14:17:46,890 : INFO : test_e2e_select : element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.
+2023-10-15 14:17:46,890 : INFO : test_e2e_select : actual_element_text:`Blackberry`, expected_product_name:`Blackberry`.
+2023-10-15 14:17:47,026 : INFO : test_e2e_select : ---------------------completed test!----------------------
+2023-10-15 14:17:48,350 : INFO : test_e2e_sort_table : ---------------------started test!----------------------
+2023-10-15 14:17:50,062 : INFO : test_e2e_sort_table : unsorted list:`['Wheat', 'Tomato', 'Strawberry', 'Rice', 'Potato', 'Pineapple', 'Orange', 'Mango', 'Guava', 'Dragon fruit', 'Chocolate', 'Cherry', 'Cheese', 'Carrot', 'Brinjal', 'Beans', 'Banana', 'Apple', 'Almond']`.
+2023-10-15 14:17:50,187 : INFO : test_e2e_sort_table : actual sorted list:                   `['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`  .
+2023-10-15 14:17:50,187 : INFO : test_e2e_sort_table : initially unsorted list aster sorting:`['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`.
+2023-10-15 14:17:50,187 : INFO : test_e2e_sort_table : ---------------------completed test!----------------------
+2023-10-15 14:17:51,488 : INFO : test_e2e_third : ---------------------started test!----------------------
+2023-10-15 14:17:58,621 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:02,941 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:02,947 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:02,947 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:03,759 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:03,759 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:05,127 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:05,127 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:05,127 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:07,774 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:07,774 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:07,774 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:07,779 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:07,779 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:07,779 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:07,779 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:08,644 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:08,644 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:08,644 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:08,644 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:09,983 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:09,983 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:09,983 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:09,983 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:09,983 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:12,608 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:12,608 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:12,608 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:12,608 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:12,608 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:12,613 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:12,613 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:12,613 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:12,613 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:12,613 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:12,613 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:18:13,551 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:13,551 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:13,551 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:13,551 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:13,551 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:13,551 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:18:47,375 : INFO : test_e2e_select : ---------------------started test!----------------------
+2023-10-15 14:18:52,481 : INFO : test_e2e_select : shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="02032dd0eb151b8f18e5b60f124e0ded", element="C0ADCF3C1706676B801041967B0BDD0D_element_64")>, <selenium.webdriver.remote.webelement.WebElement (session="02032dd0eb151b8f18e5b60f124e0ded", element="C0ADCF3C1706676B801041967B0BDD0D_element_65")>, <selenium.webdriver.remote.webelement.WebElement (session="02032dd0eb151b8f18e5b60f124e0ded", element="C0ADCF3C1706676B801041967B0BDD0D_element_66")>, <selenium.webdriver.remote.webelement.WebElement (session="02032dd0eb151b8f18e5b60f124e0ded", element="C0ADCF3C1706676B801041967B0BDD0D_element_67")>]`.
+2023-10-15 14:18:52,511 : INFO : test_e2e_select : element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.
+2023-10-15 14:18:52,531 : INFO : test_e2e_select : element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.
+2023-10-15 14:18:52,549 : INFO : test_e2e_select : element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.
+2023-10-15 14:18:52,568 : INFO : test_e2e_select : element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.
+2023-10-15 14:18:52,568 : INFO : test_e2e_select : actual_element_text:`Blackberry`, expected_product_name:`Blackberry`.
+2023-10-15 14:18:52,702 : INFO : test_e2e_select : ---------------------completed test!----------------------
+2023-10-15 14:18:54,051 : INFO : test_e2e_sort_table : ---------------------started test!----------------------
+2023-10-15 14:18:56,045 : INFO : test_e2e_sort_table : unsorted list:`['Wheat', 'Tomato', 'Strawberry', 'Rice', 'Potato', 'Pineapple', 'Orange', 'Mango', 'Guava', 'Dragon fruit', 'Chocolate', 'Cherry', 'Cheese', 'Carrot', 'Brinjal', 'Beans', 'Banana', 'Apple', 'Almond']`.
+2023-10-15 14:18:56,165 : INFO : test_e2e_sort_table : actual sorted list:                   `['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`  .
+2023-10-15 14:18:56,165 : INFO : test_e2e_sort_table : initially unsorted list aster sorting:`['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`.
+2023-10-15 14:18:56,165 : INFO : test_e2e_sort_table : ---------------------completed test!----------------------
+2023-10-15 14:18:57,470 : INFO : test_e2e_third : ---------------------started test!----------------------
+2023-10-15 14:19:03,710 : INFO : test_e2e_third : here is product nameCucumber - 1 Kg
+2023-10-15 14:19:03,719 : INFO : test_e2e_third : True
+2023-10-15 14:19:03,724 : INFO : test_e2e_third : here is product nameRaspberry - 1/4 Kg
+2023-10-15 14:19:03,737 : INFO : test_e2e_third : True
+2023-10-15 14:19:03,742 : INFO : test_e2e_third : here is product nameStrawberry - 1/4 Kg
+2023-10-15 14:19:03,759 : INFO : test_e2e_third : True
+2023-10-15 14:19:03,764 : INFO : test_e2e_third : found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.
+2023-10-15 14:19:03,816 : INFO : test_e2e_third : found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.
+2023-10-15 14:19:03,856 : INFO : test_e2e_third : found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.
+2023-10-15 14:19:06,290 : INFO : test_e2e_third : From table cell:`388`
+2023-10-15 14:19:06,290 : INFO : test_e2e_third : From Summary cell :`388`
+2023-10-15 14:19:13,349 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:16,367 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:16,372 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:16,372 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:17,255 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:17,255 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:18,606 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:18,606 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:18,606 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:22,618 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:22,618 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:22,618 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:22,623 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:22,623 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:22,623 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:22,623 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:23,448 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:23,448 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:23,448 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:23,448 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:24,754 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:24,754 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:24,754 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:24,754 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:24,754 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:27,339 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:27,339 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:27,339 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:27,339 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:27,339 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:27,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:27,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:27,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:27,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:27,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:27,344 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:19:28,181 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:28,181 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:28,181 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:28,181 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:28,181 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:19:28,181 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:09,317 : INFO : test_e2e_select : ---------------------started test!----------------------
+2023-10-15 14:23:12,992 : INFO : test_e2e_select : shop_item_list:`[<selenium.webdriver.remote.webelement.WebElement (session="f08a594566cb468a2de0bc06268dfbcd", element="B2166477E4EED41DCDA4F3C739B8D6DE_element_66")>, <selenium.webdriver.remote.webelement.WebElement (session="f08a594566cb468a2de0bc06268dfbcd", element="B2166477E4EED41DCDA4F3C739B8D6DE_element_67")>, <selenium.webdriver.remote.webelement.WebElement (session="f08a594566cb468a2de0bc06268dfbcd", element="B2166477E4EED41DCDA4F3C739B8D6DE_element_68")>, <selenium.webdriver.remote.webelement.WebElement (session="f08a594566cb468a2de0bc06268dfbcd", element="B2166477E4EED41DCDA4F3C739B8D6DE_element_69")>]`.
+2023-10-15 14:23:13,026 : INFO : test_e2e_select : element text:`iphone X`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg`.
+2023-10-15 14:23:13,048 : INFO : test_e2e_select : element text:`Samsung Note 8`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg`.
+2023-10-15 14:23:13,067 : INFO : test_e2e_select : element text:`Nokia Edge`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg`.
+2023-10-15 14:23:13,085 : INFO : test_e2e_select : element text:`Blackberry`, image_url:`https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg`.
+2023-10-15 14:23:13,086 : INFO : test_e2e_select : actual_element_text:`Blackberry`, expected_product_name:`Blackberry`.
+2023-10-15 14:23:13,225 : INFO : test_e2e_select : ---------------------completed test!----------------------
+2023-10-15 14:23:14,586 : INFO : test_e2e_sort_table : ---------------------started test!----------------------
+2023-10-15 14:23:16,240 : INFO : test_e2e_sort_table : unsorted list:`['Wheat', 'Tomato', 'Strawberry', 'Rice', 'Potato', 'Pineapple', 'Orange', 'Mango', 'Guava', 'Dragon fruit', 'Chocolate', 'Cherry', 'Cheese', 'Carrot', 'Brinjal', 'Beans', 'Banana', 'Apple', 'Almond']`.
+2023-10-15 14:23:16,367 : INFO : test_e2e_sort_table : actual sorted list:                   `['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`  .
+2023-10-15 14:23:16,367 : INFO : test_e2e_sort_table : initially unsorted list aster sorting:`['Almond', 'Apple', 'Banana', 'Beans', 'Brinjal', 'Carrot', 'Cheese', 'Cherry', 'Chocolate', 'Dragon fruit', 'Guava', 'Mango', 'Orange', 'Pineapple', 'Potato', 'Rice', 'Strawberry', 'Tomato', 'Wheat']`.
+2023-10-15 14:23:16,367 : INFO : test_e2e_sort_table : ---------------------completed test!----------------------
+2023-10-15 14:23:17,675 : INFO : test_e2e_third : ---------------------started test!----------------------
+2023-10-15 14:23:22,870 : INFO : test_e2e_third : here is product nameCucumber - 1 Kg
+2023-10-15 14:23:22,879 : INFO : test_e2e_third : True
+2023-10-15 14:23:22,883 : INFO : test_e2e_third : here is product nameRaspberry - 1/4 Kg
+2023-10-15 14:23:22,897 : INFO : test_e2e_third : True
+2023-10-15 14:23:22,901 : INFO : test_e2e_third : here is product nameStrawberry - 1/4 Kg
+2023-10-15 14:23:22,918 : INFO : test_e2e_third : True
+2023-10-15 14:23:22,924 : INFO : test_e2e_third : found element with text:`Cucumber - 1 Kg
+48
+–
++
+ADD TO CART`.
+2023-10-15 14:23:22,976 : INFO : test_e2e_third : found element with text:`Raspberry - 1/4 Kg
+160
+–
++
+ADD TO CART`.
+2023-10-15 14:23:23,016 : INFO : test_e2e_third : found element with text:`Strawberry - 1/4 Kg
+180
+–
++
+ADD TO CART`.
+2023-10-15 14:23:25,450 : INFO : test_e2e_third : From table cell:`388`
+2023-10-15 14:23:25,450 : INFO : test_e2e_third : From Summary cell :`388`
+2023-10-15 14:23:31,006 : INFO : test_e2e_third : float price with discount `349.2`
+2023-10-15 14:23:31,006 : INFO : test_e2e_third : Total amount:`388`
+2023-10-15 14:23:31,006 : INFO : test_e2e_third : Total amount:`10`
+2023-10-15 14:23:31,006 : INFO : test_e2e_third : Total amount with discount:`349.2`
+2023-10-15 14:23:31,006 : INFO : test_e2e_third : process summary:`349.2`
+2023-10-15 14:23:31,014 : INFO : test_e2e_third : last test step text: `Code applied ..!`.
+2023-10-15 14:23:31,014 : INFO : test_e2e_third : ---------------------completed test!----------------------
+2023-10-15 14:23:32,332 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:34,956 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:34,961 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:34,961 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:35,810 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:35,810 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:37,158 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:37,158 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:37,158 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:39,673 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:39,673 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:39,673 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:39,678 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:39,678 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:39,678 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:39,678 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:40,496 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:40,496 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:40,496 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:40,496 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:41,848 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:41,848 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:41,848 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:41,848 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:41,848 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:44,456 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:44,456 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:44,456 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:44,456 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:44,456 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:44,461 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:44,461 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:44,461 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:44,461 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:44,461 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:44,461 : INFO : test_form_submission : ---------------------started test!----------------------
+2023-10-15 14:23:45,329 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:45,329 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:45,329 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:45,329 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:45,329 : INFO : test_form_submission : ---------------------completed test!----------------------
+2023-10-15 14:23:45,329 : INFO : test_form_submission : ---------------------completed test!----------------------
